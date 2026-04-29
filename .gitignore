@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Conda環境（万一プロジェクト内に作った場合）
+env/
+venv/
